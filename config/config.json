@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "khorzon",
+    "password": "pass",
+    "database": "graphql_apollo_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "khorzon",
+    "password": "pass",
+    "database": "graphql_apollo_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "khorzon",
+    "password": "pass",
+    "database": "graphql_apollo_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
