@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "khorzon",
-    "password": "pass",
+    "password": "mit12gt90",
     "database": "graphql_apollo_db",
     "host": "127.0.0.1",
     "dialect": "postgres",
@@ -9,7 +9,7 @@
   },
   "test": {
     "username": "khorzon",
-    "password": "pass",
+    "password": "mit12gt90",
     "database": "graphql_apollo_db",
     "host": "127.0.0.1",
     "dialect": "postgres",
@@ -17,7 +17,7 @@
   },
   "production": {
     "username": "khorzon",
-    "password": "pass",
+    "password": "mit12gt90",
     "database": "graphql_apollo_db",
     "host": "127.0.0.1",
     "dialect": "postgres",
